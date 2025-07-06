@@ -44,29 +44,6 @@ This extension contributes the following commands:
 - `resharper-cli.formatCurrentFile`: Formats the currently active file in the editor.
 - `resharper-cli.formatChangedFiles`: Formats files that have been changed according to version control.
 
-## Keybindings
-
-You can bind the extension commands to keyboard shortcuts by adding the following to your `keybindings.json`:
-
-```json
-{
-    "key": "ctrl+alt+f",
-    "command": "resharper-cli.formatWholeSolution",
-    "when": "editorTextFocus"
-},
-{
-    "key": "ctrl+alt+c",
-    "command": "resharper-cli.formatCurrentFile",
-    "when": "editorTextFocus"
-},
-{
-    "key": "ctrl+alt+g",
-    "command": "resharper-cli.formatChangedFiles",
-    "when": "editorTextFocus"
-}
-}
-```
-
 ## License
 
 This extension is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
