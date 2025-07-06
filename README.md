@@ -46,7 +46,7 @@ This extension contributes the following commands:
 
 ## License
 
-This extension is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This extension is licensed under the MIT License. See the [LICENCE](LICENCE) file for details.
 
 ## Acknowledgements
 
