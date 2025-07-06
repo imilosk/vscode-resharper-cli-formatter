@@ -44,9 +44,9 @@ This extension contributes the following commands:
 - `resharper-cli.formatCurrentFile`: Formats the currently active file in the editor.
 - `resharper-cli.formatChangedFiles`: Formats files that have been changed according to version control.
 
-## License
+## Licence
 
-This extension is licensed under the MIT License. See the [LICENCE](LICENCE) file for details.
+This extension is licenced under the MIT Licence. See the [LICENCE](LICENCE) file for details.
 
 ## Acknowledgements
 
