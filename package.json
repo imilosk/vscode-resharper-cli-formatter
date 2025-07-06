@@ -1,6 +1,6 @@
 {
   "name": "resharper-cli",
-  "displayName": "VS Code Formatter",
+  "displayName": "ReSharper CLI Formatter",
   "description": "",
   "version": "0.0.1",
   "repository": {
